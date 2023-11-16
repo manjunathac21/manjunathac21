@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working in Jyothy Institute of Technology
+- 🌱 I’m currently learning Web Programming
+- 👯 I’m looking to collaborate on well still learning few things first
+- 🤔 I’m looking for help with building a website similar to replit education
+- 📫 How to reach me: manjunatha.c@jyothyit.ac.in
+- ⚡ Fun fact: well still trying to look for one
 <!--
 **manjunathac21/manjunathac21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
